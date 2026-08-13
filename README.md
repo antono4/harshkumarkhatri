@@ -1,41 +1,66 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h1 align="center">Project 👋</h1>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+<p align="center">
+  <strong></strong>
+</p>
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
-## 👯 Communities
-* DSC Lead.
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
-## ⚡ Technologies
-Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
-- ⚡ Fun fact: Internet users blink less than usual.
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+<p align="center">
+  <a href="https://github.com/antono4/harshkumarkhatri"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/harshkumarkhatri-blue?logo=github"></a>
+  <a href="https://antono4.github.io/harshkumarkhatri/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-2-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:13:14 WIB-lightgrey">
+</p>
 
 ---
 
-> **Created by Antono**
+## 📖 Tentang
+
+Repository **`harshkumarkhatri`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/harshkumarkhatri/`](https://antono4.github.io/harshkumarkhatri/).
+
+## 🗂️ Struktur Proyek
+
+```
+harshkumarkhatri/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
+> Total **2 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/harshkumarkhatri/](https://antono4.github.io/harshkumarkhatri/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:13:14 WIB** oleh GitHub Actions .</sub>
